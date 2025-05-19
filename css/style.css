@@ -21,13 +21,12 @@ header {
 .title {
    display: flex;
    justify-content: space-between;
-   margin-right: 2rem;
-
+   margin-right: 2rem
 }
-.nav-up {
 
-
-}
+.title-text {
+    
+} 
 
 .actions {
     display: flex;
@@ -44,4 +43,45 @@ a:link {
 
 .nav-down {
     
+}
+
+footer {
+    margin: 10rem;
+    color: black;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    line-height: 2rem;
+}
+.form input {
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+
+footer a {
+    color: black;
+}
+.socials  {
+    display: flex;
+    align-items: flex-end;
+    padding: 1rem;
+    gap: 1rem;
+   
+}
+
+.socials a {
+    font-size: x-large;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+
+    
+}
+span img {
+    height: 2rem;
+    width: 2.5rem;
 }
