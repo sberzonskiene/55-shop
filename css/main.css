@@ -22,7 +22,17 @@
 }
 
 .boots-foto img {
-    width: 7rem;
+    width: 5rem;
     margin-bottom: 1rem;
+    display: flex;
+}
+
+.nw-foto {
+    display: flex;
+    margin-top: 5rem; 
+}
+
+.nw-foto img {
+    width: 50%;
 }
 
