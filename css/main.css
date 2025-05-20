@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-foto {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.5rem; 
+}
+
+.boots1 {
+    margin-top: 0.5rem;
+}
+
+.boots-foto {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 3rem;
+
+}
+
+.boots-foto img {
+    width: 7rem;
+    margin-bottom: 1rem;
+}
+
