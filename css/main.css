@@ -6,9 +6,11 @@
 .main-foto {
     display: flex;
     flex-direction: column;
-    margin-top: 0.5rem; 
 }
 
+.main-foto img {
+
+}
 .boots1 {
     margin-top: 0.5rem;
 }
@@ -35,4 +37,32 @@
 .nw-foto img {
     width: 50%;
 }
+
+.nw-trio {
+    display: flex;
+    
+}
+
+.nw-trio img {
+
+}
+
+.nw-nudes p {
+
+
+}
+
+.nw-nudes h2 {
+    text-decoration: underline;
+}
+
+.currently h2 {
+    text-decoration: underline;
+}
+
+.technology h2 {
+    text-decoration: underline;
+}
+
+
 
