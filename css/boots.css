@@ -1,8 +1,6 @@
 
-
 .sale {
-    margin-top: 4rem;
-    background-color: gainsboro;
+    margin-top: 1rem;
 }
 
 .sale-up {
@@ -11,14 +9,136 @@
 
 .quadro {
     width: 100%;
-
 }
 
 .zero {
     width: 16.4%;
-    
 }
 
 .fits {
+    display: flex;
+}
+.fits img {
+    width: 50%;
+}
 
+.fits-text {
+    display: flex;
+    align-items: flex-end;
+}
+
+.fits-text1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.get {
+    justify-content: space-between;
+    display: flex;
+}
+
+.get-foto {
+    display: flex;
+    width: 50%;
+}
+
+.get-text {
+    display: flex;
+    align-items: flex-end;
+    
+}
+
+.get-text2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.always {
+    display: flex;
+}
+
+.always img {
+    width: 50%;
+}
+
+.always-text {
+    display: flex;
+    align-items: flex-end;
+}
+
+.always-text3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.good {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.good img {
+    width: 50%;
+}
+
+.good-text {
+    display: flex;
+    align-items: flex-end;
+}
+
+.good-text4 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.hot {
+    display: flex;
+}
+
+.hot img {
+    width: 50%;
+}
+.hot-text {
+    display: flex;
+    align-items: flex-end;
+}
+
+.hot-text5{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nw-last {
+    display: flex;
+    justify-content: center;
+}
+
+.explore {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+ .explore h1 {
+    font-size: medium;
+ }
+
+ .explore p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+ }
+
+ .explore h2 {
+    font-size: larger;
+    text-decoration: underline;
+ }
+
+ .receive {
+    margin-top: 3rem;  
 }
