@@ -1,6 +1,7 @@
 
 .sale {
     margin-top: 1rem;
+    background-color: gainsboro;
 }
 
 .sale-up {
@@ -31,6 +32,17 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-left: 4rem;
+    margin-bottom: 1rem;
+    gap: 1rem
+}
+.fits-text1 h1 {
+    font-size: large;
+}
+.fits-text1 h2 {
+    font-size: large;
+    text-decoration: underline;
+
 }
 
 .get {
@@ -53,6 +65,17 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-left: 4rem;
+    margin-bottom: 1rem;
+    gap: 1rem;
+}
+
+.get-text2 h1 {
+    font-size: large;
+}
+.get-text2 h2 {
+    font-size: large;
+    text-decoration: underline;
 }
 
 .always {
@@ -72,8 +95,17 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-left: 4rem;
+    margin-bottom: 1rem;
+    gap: 1rem;
 }
-
+.always-text3 h1 {
+    font-size: large;
+}
+.always-text3 h2 {
+    font-size: large;
+    text-decoration: underline;
+}
 .good {
     display: flex;
     flex-direction: row-reverse;
@@ -93,7 +125,16 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-
+    margin-left: 4rem;
+    margin-bottom: 1rem;
+    gap: 1rem;
+}
+.good-text4 h1 {
+    font-size: large;
+}
+.good-text4 h2 {
+    font-size: large;
+    text-decoration: underline;
 }
 
 .hot {
@@ -112,6 +153,16 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-left: 4rem;
+    margin-bottom: 1rem;
+    gap: 1rem;
+}
+.hot-text5 h1 {
+    font-size: large;
+}
+.hot-text5 h2 {
+    font-size: large;
+    text-decoration: underline;
 }
 
 .nw-last {

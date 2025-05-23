@@ -40,19 +40,13 @@
 
 .nw-trio {
     display: flex;
+}
+
+.nudes-text {
     
 }
-
-.nw-trio img {
-
-}
-
-.nw-nudes p {
-
-
-}
-
 .nw-nudes h2 {
+    font-size: large;
     text-decoration: underline;
 }
 
